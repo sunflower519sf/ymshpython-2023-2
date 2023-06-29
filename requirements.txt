@@ -1,4 +1,4 @@
-line-bot-sdk
-flask
-apscheduler
-gunicorn
+line-bot-sdk == 2.4.2
+flask == 2.2.3
+apscheduler == 3.10.1
+gunicorn == 20.1.0
