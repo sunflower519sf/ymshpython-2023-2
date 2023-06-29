@@ -1,0 +1,5 @@
+{
+    "SECRET":">>Channel secret<<",
+    "YOURID":">>Your user ID<<",
+    "TOKEN":">>Channel access token<<"
+}
